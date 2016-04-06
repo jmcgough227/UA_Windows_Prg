@@ -1,0 +1,6 @@
+C:\Users\Jason\documents\visual studio 2013\Projects\WP_Final\WP_Final\bin\WP_Final.dll.config
+C:\Users\Jason\documents\visual studio 2013\Projects\WP_Final\WP_Final\bin\WP_Final.dll
+C:\Users\Jason\documents\visual studio 2013\Projects\WP_Final\WP_Final\bin\WP_Final.pdb
+C:\Users\Jason\documents\visual studio 2013\Projects\WP_Final\WP_Final\obj\Debug\WP_Final.csprojResolveAssemblyReference.cache
+C:\Users\Jason\documents\visual studio 2013\Projects\WP_Final\WP_Final\obj\Debug\WP_Final.dll
+C:\Users\Jason\documents\visual studio 2013\Projects\WP_Final\WP_Final\obj\Debug\WP_Final.pdb

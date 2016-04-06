@@ -1,0 +1,12 @@
+﻿body
+{
+    background-color: lightgray;
+}
+
+.tableHeadRow
+{
+    background-color: forestgreen;
+    color: white;
+    border-color: black;
+    border: ridge;
+}
